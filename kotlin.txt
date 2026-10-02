@@ -1,2 +1,3 @@
-Juan Camilo Pabon Bohorquez
+Usuario GitHub: dorlanpabon
+Nombre del ejemplo: Juan Camilo Pabon Bohorquez
 juan.pabon@example.invalid
