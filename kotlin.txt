@@ -1,3 +1,4 @@
 Usuario GitHub: dorlanpabon
+Datos ficticios de contacto para el taller ADSO
 Nombre del ejemplo: Juan Camilo Pabon Bohorquez
 juan.pabon@example.invalid
